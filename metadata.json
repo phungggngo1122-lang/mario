@@ -1,0 +1,5 @@
+{
+  "name": "Super AI Mario Adventure",
+  "description": "A classic 2D platformer inspired by Super Mario, featuring AI-generated level hints and dynamic challenges using the Gemini API.",
+  "requestFramePermissions": []
+}
